@@ -44,7 +44,7 @@ int get_cents(void)
 	int change
 	do
 	{
-			change = get_int("Change owed for? ");
+		change = get_int("Change owed for? ");
 	}
 	while (change < 0);
 	return change; //Returns the value in cents
