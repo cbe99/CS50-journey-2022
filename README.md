@@ -56,3 +56,6 @@ Notes of [week 2](https://cs50.harvard.edu/x/2022/notes/2/).
     [Question](https://cs50.harvard.edu/x/2022/psets/2/substitution/)
     
     [My Solution](https://github.com/cbe99/CS50-journey-2022/commit/4da6fd728318e35c55594822ea5eb85b3941f191)
+    
+ # Week 3: Algorithms
+ Notes of [week 3](https://cs50.harvard.edu/x/2022/notes/3/)
