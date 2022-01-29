@@ -64,9 +64,9 @@ Notes of [week 2](https://cs50.harvard.edu/x/2022/notes/2/).
 1. **Plurality 2022**
     [Question](https://cs50.harvard.edu/x/2022/psets/3/plurality/)
     
-    [My Solution](https://github.com/cbe99/CS50-journey-2022/blob/main/Problem%20Set%203/Plurality.c)
+    [My Solution](https://github.com/cbe99/CS50-journey-2022/blob/main/ProblemSet%233/Plurality-2022/Plurality.c)
     
 2. **Runoff 2022**
     [Question](https://cs50.harvard.edu/x/2022/psets/3/runoff/)
     
-    [My Solution](https://github.com/cbe99/CS50-journey-2022/tree/main/ProblemSet%233/Runoff-2022)
+    [My Solution](https://github.com/cbe99/CS50-journey-2022/tree/main/ProblemSet%233/Runoff-2022/Runoff.c)
